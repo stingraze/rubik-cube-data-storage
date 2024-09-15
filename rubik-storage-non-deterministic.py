@@ -1,3 +1,5 @@
+# (C) Tsubasa Kato 2024/9/16/2024 - Inspire Search Corporation
+# Coded with the help of Perplexity Pro
 import random
 
 class Move:
