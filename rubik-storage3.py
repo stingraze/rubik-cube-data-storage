@@ -1,3 +1,5 @@
+＃（C)Tsubasa Kato 2024/9/16 1:53AM JST - Inspire Search Corporatoin
+#  Created with the help of Perplexity Pro. Idea / testing by Tsubasa Kato.
 class Move:
     def __init__(self, face, direction=None):
         self.face = face
